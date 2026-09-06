@@ -1,4 +1,4 @@
-<h1 align="center">NATHAN FRZÃO</h1>
+<h1 align="center">NATHAN FRAZÃO</h1>
 
 <p align="center">
   Estudante de Desenvolvimento de Software | Em busca da primeira oportunidade na área
