@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nathan-frazão-4b691826b?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117&color=00E5FF" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A855F7&labelColor=0D1117&color=A855F7" />
   </a>
   <a href="mailto:nathan.frazao@icloud.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=maildotru&logoColor=00E5FF&labelColor=0D1117&color=00E5FF" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=maildotru&logoColor=A855F7&labelColor=0D1117&color=A855F7" />
   </a>
   <a href="https://www.instagram.com/onathanfrazao" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00E5FF&labelColor=0D1117&color=00E5FF" />
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=A855F7&labelColor=0D1117&color=A855F7" />
   </a>
 </p>
 ---
