@@ -35,7 +35,7 @@ Com o objetivo de atuar como estagiário na área da tecnologia da informação 
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,php,mysql,git,github,vscode&theme=dark&perline=5" alt="Tecnologias" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D4F,100:0D1117&height=60&section=footer" width="100%" />
