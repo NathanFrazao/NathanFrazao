@@ -6,18 +6,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nathan-frazão-4b691826b?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/%20-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:nathan.frazao@icloud.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" alt="E-mail" />
+    <img src="https://img.shields.io/badge/%20-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="E-mail" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/onathanfrazao" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" alt="Instagram" />
+    <img src="https://img.shields.io/badge/%20-0D1117?style=for-the-badge&logo=instagram&logoColor=00E5FF" alt="Instagram" />
   </a>
 </p>
-
 ---
 
 ### `~/sobre-mim`
